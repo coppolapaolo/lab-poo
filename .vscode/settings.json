@@ -1,5 +1,5 @@
 {
-  "java.project.sourcePaths": ["src", "test"],
+  "java.project.sourcePaths": ["Tris/src","Tris/test"],
   "java.project.referencedLibraries": [
     "lib/**/*.jar"
   ]
